@@ -16,7 +16,7 @@ pip3 install -r requirements.txt
 
 create a file called 'apitoken.txt' and put in an API token from https://app.mailjet.com/sms
 
-populate the clientdata.csv file, with the client information
+populate the 'clientdata.csv' file, with the client information
 
 Run:
 python3 sendsms.py
